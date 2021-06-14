@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">freakflix</string>
+    <string name="title_activity_main">freakflix</string>
+    <string name="package_name">io.ionic.freakflix</string>
+    <string name="custom_url_scheme">io.ionic.freakflix</string>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.freakflix",
+  "appName": "freakflix",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

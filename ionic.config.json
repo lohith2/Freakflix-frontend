@@ -1,0 +1,7 @@
+{
+    "name": "freakflix",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
